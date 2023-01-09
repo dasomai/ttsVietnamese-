@@ -1,5 +1,5 @@
 # ttsVietnamese-
-simple python code turn text to speech in Vietanmese 
+simple python code turn text to speech in Vietnamese 
 
 
 Install environemnt:
